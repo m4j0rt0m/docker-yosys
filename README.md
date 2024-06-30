@@ -1,6 +1,6 @@
 # Yosys Docker Image
 
-This repository provides a Docker setup to build, tag, and push a Docker image for [Yosys](http://www.clifford.at/yosys/), an open-source Verilog synthesis tool.
+This repository provides a Docker setup to build, tag, and push a Docker image for [Yosys](https://github.com/YosysHQ/yosys), an open-source Verilog synthesis tool.
 
 ## Prerequisites
 
